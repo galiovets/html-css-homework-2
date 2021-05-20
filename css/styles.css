@@ -26,8 +26,12 @@ body {
   line-height: 1.19;
 }
 
-.logo.text {
+.logo.web {
   color: var(--accent-color);
+}
+
+.logo.studio {
+  color: var(--primary-white-color);
 }
 
 .list {
